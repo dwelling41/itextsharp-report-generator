@@ -1,0 +1,16 @@
+E:\Code\upwork\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Code\upwork\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Code\upwork\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Code\upwork\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\bin\Debug\itextsharp.dll
+E:\Code\upwork\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\bin\Debug\itextsharp.xml
+E:\Code\upwork\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Code\upwork\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Code\upwork\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Code\upwork\Completed\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Code\upwork\Completed\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Code\upwork\Completed\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Code\upwork\Completed\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Code\upwork\Completed\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Code\upwork\Completed\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\bin\Debug\itextsharp.dll
+E:\Code\upwork\Completed\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\bin\Debug\itextsharp.xml
+E:\Code\upwork\Completed\coding-company-ug_pdfPrinting\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
